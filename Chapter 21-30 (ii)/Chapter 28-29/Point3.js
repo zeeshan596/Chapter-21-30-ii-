@@ -1,0 +1,1 @@
+let floatNum = parseFloat("3.14");

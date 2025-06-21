@@ -1,0 +1,1 @@
+let newStr = str.replace("1", "one");

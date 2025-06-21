@@ -1,0 +1,1 @@
+let indx = text.lastIndexOf("go");

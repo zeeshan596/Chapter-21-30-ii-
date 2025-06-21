@@ -1,0 +1,1 @@
+let cha = text.charAt(9);

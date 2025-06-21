@@ -1,0 +1,1 @@
+let cha = input.charAt(4);

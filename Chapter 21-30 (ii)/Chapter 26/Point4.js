@@ -1,0 +1,1 @@
+roundedVar = Math.round(numberVar);

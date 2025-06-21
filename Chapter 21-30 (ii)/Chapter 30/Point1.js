@@ -1,0 +1,1 @@
+newNum = num.toFixed(4);

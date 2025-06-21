@@ -1,0 +1,1 @@
+lowerStr = str.toLowerCase();

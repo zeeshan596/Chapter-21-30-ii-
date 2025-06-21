@@ -1,0 +1,1 @@
+roundNum = Math.ceil(origNum);

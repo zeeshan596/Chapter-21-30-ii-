@@ -1,0 +1,1 @@
+let x = str.charAt(str.length - 1);

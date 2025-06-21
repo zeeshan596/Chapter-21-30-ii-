@@ -1,0 +1,1 @@
+let ch = "abcde".charAt(2);

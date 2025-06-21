@@ -1,0 +1,1 @@
+cityName = cityName.charAt(0).toUpperCase() + cityName.slice(1).toLowerCase();

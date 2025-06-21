@@ -1,0 +1,1 @@
+var y = x.replace(/a/g, "z");

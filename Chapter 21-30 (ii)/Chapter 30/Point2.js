@@ -1,0 +1,1 @@
+num = parseFloat(num.toFixed(2));

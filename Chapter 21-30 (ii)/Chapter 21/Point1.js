@@ -1,0 +1,1 @@
+var allLower = userInput.toLowerCase();

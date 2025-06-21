@@ -1,0 +1,1 @@
+lowerElem = arr[0].toLowerCase();
